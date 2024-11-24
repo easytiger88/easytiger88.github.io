@@ -4,7 +4,7 @@ This is a test for a website.
 
 Research areas:
 <details>
-<summary># Machine Learning Privacy</summary>
+<summary> # Machine Learning Privacy </summary>
 
 ### You can add a header
 
