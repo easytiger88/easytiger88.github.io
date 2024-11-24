@@ -8,7 +8,7 @@ Research areas:
 
 ### You can add a header
 
-![Machine learning diagram](easytiger88.github.io/assets/images/g03a-step1-ink.png)
+![Machine learning diagram](https://easytiger88.github.io/assets/images/g03a-step1-ink.png)
 
 You can add text within a collapsed section. 
 
