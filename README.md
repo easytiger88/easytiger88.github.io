@@ -2,6 +2,9 @@
 
 This is a test for a website.
 
+![Machine learning diagram](https://easytiger88.github.io/assets/images/g03a-step1-ink.png)
+
+
 Research areas:
 <details>
 <summary> # Machine Learning Privacy </summary>
