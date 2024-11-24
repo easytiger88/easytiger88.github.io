@@ -4,11 +4,11 @@ This is a test for a website.
 
 Research areas:
 <details>
-<summary>Machine Learning Privacy</summary>
+<summary># Machine Learning Privacy</summary>
 
 ### You can add a header
 
-![Machine learning diagram](/assets/images/g03a-step1-ink.png)
+![Machine learning diagram](easytiger88.github.io/assets/images/g03a-step1-ink.png)
 
 You can add text within a collapsed section. 
 
