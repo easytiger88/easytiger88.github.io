@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Easytiger88
+subtitle: "This is the subtitle"
+name: Easy Tiger
+description: This is a description of the site
+url: "https://easytiger88.github.io"
 minimal_mistakes_skin: "air"
