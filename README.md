@@ -8,7 +8,7 @@ This is a test for a website.
 Research areas:
 <details>
 <summary> 
-# Machine Learning Privacy 
+# Machine <b>Learning</b> Privacy 
 </summary>
 
 ### You can add a header
